@@ -38,7 +38,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants : 
 * Suryous Hadrien
-* Suryous Hadrien
+* Lechene Corentin
 * Lechene Corentin
 
 Date du jour : 17/12/2021
